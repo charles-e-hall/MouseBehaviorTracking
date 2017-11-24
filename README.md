@@ -4,4 +4,4 @@ The purpose of this software is to facilitate simultaneous video-eeg recording. 
 Developed by Charles Hall
 
 Version Information 9.18.2017
-The current version of the software runs in MATLAB.
+The current version of the software runs in MATLAB 2016a.
